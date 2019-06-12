@@ -1,2 +1,5 @@
 # LANL-earthquake-predection
-这是kaggle中LANL-earthquake-prediction比赛的相关code.
+LANL-earthquake-prediction为kaggle中的比赛。 比赛网址：https://www.kaggle.com/c/LANL-Earthquake-Prediction
+比赛数据集及其描述参见：https://www.kaggle.com/c/LANL-Earthquake-Prediction/data
+
+
